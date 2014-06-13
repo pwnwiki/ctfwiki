@@ -4,8 +4,6 @@
 
 [Resources]()
 
-[CTF Calendar]()
-
 [Practice Materials]()
 
 [Conferences]()
