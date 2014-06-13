@@ -9,3 +9,28 @@ The InfoSec field has a very strong community. Moving with those sentiments, I h
 ## Calendar of CTFs
 
 <iframe src="https://www.google.com/calendar/embed?src=ofl0f1624c3uk349c8k7r1cgv8%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+## Variable or Continuous
+
+* [ThreatSpace]() - Monthly Challenge, none for July due to DefCon
+* [Sans NetWars]() - http://www.sans.org/cyber-ranges/netwars/
+* [PacketWars]() - http://www.packetwars.com
+* [hackthissite]() - http://hackthissite.org
+* [Smash the Stack]() - http://smashthestack.org/
+* [Hack Miami]() - lots of CTFs, no details currently - http://hackmiami.org
+* [Forensics Contest]() - LMG SecurityÃ¢ÂÂs Forensic Contest - http://forensicscontest.com
+* [HoneyNet Project Challenges]() - http://www.honeynet.org/challenges/
+* [Halls of Valhalla]() - http://halls-of-Valhalla.org/ - Hundreds of challenges and an active community that adds new challenges as they think of them
+* [Hellbound Hackers]() - http://www.hellboundhackers.org/ - New
+* [SANS post-class CTFs]() - Usually when you take a sans course, especially in the pentesting track, you'll do a small CTF at the end of the class as a training exercise.
+
+## Online CTF
+
+* [Security Treasure Hunt]() - http://www.securitytreasurehunt.com/
+* http://www.root-me.org/?lang=en
+* http://www.hackthissite.org/
+* http://exploit-exercises.com/
+* http://hackquest.com
+* http://securitytraps.no-ip.pl/
+* http://www.astalavista.com/index.php?app=hackingchallenge (you must create a username & password to see the server info)
