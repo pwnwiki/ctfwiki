@@ -2,7 +2,7 @@
 
 [Home](index.md)
 
-[Resources]()
+[Resources](resources.md)
 
 [Practice Materials]()
 
