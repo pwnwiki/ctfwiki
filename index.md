@@ -19,8 +19,8 @@ The main types of challenges are:
 * Fun
 * Learning experience (Practical Hands-on) - For both creator and player
 * Testing of a new product 
-* - If only more companies did this, products might be more secure and better usability
-* - What if you could do security testing for the price of a simple prize
+ - If only more companies did this, products might be more secure and better usability
+ - What if you could do security testing for the price of a simple prize
 * Hiring - Resumes are great, but how do I know who can do what I want
 
 ## Calendar of CTFs
@@ -52,3 +52,4 @@ Calendar is in East Coast Time Zone
 * http://hackquest.com
 * http://securitytraps.no-ip.pl/
 * http://www.astalavista.com/index.php?app=hackingchallenge (you must create a username & password to see the server info)
+* http://ringzer0team.com/
