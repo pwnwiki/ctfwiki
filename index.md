@@ -6,8 +6,26 @@ This is the beginning of the construction of a wiki for information about variou
 
 The InfoSec field has a very strong community. Moving with those sentiments, I have decided to dedicate this wiki to organizing competition information for CTFs. These competitions help the skills of community to be passed along in a fun and enjoyable way. As many of us are love solving challenges, CTFs are a natural step to learn and improve. Getting started with CTFs can be daunting, I hope that the information within helps people to improve their skills and become a stronger part of the community. In turn, I hope as people improve, they come back and contribute to help others.
 
+## Types of CTFs
+
+The main types of challenges are:
+* Red Team/Attack
+* Blue Team/Defense
+* Jeopardy Style
+* Mixed
+
+## Uses of CTF
+
+* Fun
+* Learning experience (Practical Hands-on) - For both creator and player
+* Testing of a new product 
+* - If only more companies did this, products might be more secure and better usability
+* - What if you could do security testing for the price of a simple prize
+* Hiring - Resumes are great, but how do I know who can do what I want
+
 ## Calendar of CTFs
 
+Calendar is in East Coast Time Zone
 <iframe src="https://www.google.com/calendar/embed?src=ofl0f1624c3uk349c8k7r1cgv8%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
@@ -19,7 +37,7 @@ The InfoSec field has a very strong community. Moving with those sentiments, I h
 * [hackthissite]() - http://hackthissite.org
 * [Smash the Stack]() - http://smashthestack.org/
 * [Hack Miami]() - lots of CTFs, no details currently - http://hackmiami.org
-* [Forensics Contest]() - LMG SecurityÃ¢ÂÂs Forensic Contest - http://forensicscontest.com
+* [Forensics Contest]() - LMG Security Forensic Contest - http://forensicscontest.com
 * [HoneyNet Project Challenges]() - http://www.honeynet.org/challenges/
 * [Halls of Valhalla]() - http://halls-of-Valhalla.org/ - Hundreds of challenges and an active community that adds new challenges as they think of them
 * [Hellbound Hackers]() - http://www.hellboundhackers.org/ - New
