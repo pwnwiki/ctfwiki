@@ -9,9 +9,17 @@ The InfoSec field has a very strong community. Moving with those sentiments, I h
 ## Types of CTFs
 
 The main types of challenges are:
+
 * Red Team/Attack
+ - Creator sets of network of targets for attack
+ - Sometimes different teams attack the same set of targets creating collisions, sometimes not
 * Blue Team/Defense
+ - Creator sets up a vulnerable network 
+ - Players inherit the network, sometimes knowing what they are inheriting, sometimes not
 * Jeopardy Style
+ - Jeopardy Scoreboard with different categories and questions of different difficulty
+ - Almost always allow multiple people to submit answers to all questions
+ - Typically starts with only easiest questions opens and forces you to solve a easier one in a given category to open the next question (otherwise time-delayed opening for higher value questions) 
 * Mixed
 
 ## Uses of CTF

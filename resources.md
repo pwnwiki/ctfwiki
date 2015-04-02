@@ -27,4 +27,5 @@
 
 ## Competition Organizer Resources
 
-* [Cybersecurity Competition Federation](http://cyberfederation.pbworks.com/w/page/68211038/Federation%20Knowledgebase%20HomePage) - New Group aiming to help competition players, mentors, sponsors and organizers
+* [Cybersecurity Competition Federation](http://cyberfed.org/) - NSF Grant funded project to help information security competitions and players
+* [Cybersecurity Competition Federation](http://cyberfederation.pbworks.com/w/page/68211038/Federation%20Knowledgebase%20HomePage) - Group aiming to help competition players, mentors, sponsors and organizers (Old Link)
