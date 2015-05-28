@@ -41,7 +41,7 @@ Cortana is the scripting engine for armitage and can be used to automate several
 [Training from Raphael Mudge](http://www.fastandeasyhacking.com/training)
 
 ==Raphael Mudge== 
-Red Team for Multiple regions: NE-CCDC, MA-CCDC, creator of Red Team Tool: [Armitage](http://www.fastandeasyhacking.com)
+Red Team for Multiple regions: NE-CCDC, MA-CCDC, creator of Red Team Tool:[Armitage](http://www.fastandeasyhacking.com)
 [@armitagehacker](https://twitter.com/armitagehacker)
 
 [Tools](../tools.md)

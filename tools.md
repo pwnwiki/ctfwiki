@@ -7,8 +7,8 @@
 - [Nessus](tools/nessus.md) - Vulnerability Scanner
 - [FireSheep](http://codebutler.com/firesheep) - Firefox Extension that steals login cookie from the local network and allows the person running firesheep to use the cookie to hijack the session 
 - [Social Engineers Toolkit by Dave "Rel1k" Kennedy](http://www.securitytube.net/video/829) - Clone any website you want and to use the Java Applet to attack automatically.
-- [Metasploit](tools/metasploit.md) - Framework for exploits and scanners by Rapid7
-- [TeamSploit](tools/teamsploit.md) - Pen Testing With Friends, By Justin Wray, a Free Penetration Automation Tool Suite
+- [Metasploit](http://www.metasploit.com/) - Ruby based framework for exploits/scanners by Rapid7 [Extensive Tutorials for Metasploit](http://www.offensive-security.com/metasploit-unleashed/Main_Page) 
+- [TeamSploit](http://www.teamsploit.com/download.php) - Pen Testing With Friends by Justin Wray which is a free penetration automation tool suite
 - [Armitage](tools/armitage.md) - GUI for Metasploit written by Raphael Mudge, its extremely powerful and easy to use
 - [Burp Suite](http://portswigger.net/burp) - Burp Suite is an integrated platform for performing security testing of web applications. 
 - [Remote Administration Tools](tools/rats.md) (RATs) - Poison Ivy and more as I find them and have time to get info on them
@@ -22,9 +22,9 @@
 
 ### Password Cracking Tools
 
-- [John The Ripper](johntheripper.md)
-- [HASHCat](http://hashcat.net)
-- [Cain and Able](http://www.oxid.it)
+- [John The Ripper](tools/johntheripper.md) -  Free and Open Source fast password cracker primarily used to detect weak Unix passwords 
+- [HASHCat](http://hashcat.net) - Worlds fastest WPA cracker with dictionary mutation engine
+- [Cain and Able](http://www.oxid.it) - Password recovery tool for Microsoft Operating Systems
 
 ## Defensive Tools   
 
@@ -38,7 +38,8 @@
 - [Forensic Tools](tools/forensictools.md) - Gotta figure out what happened
 - [Master Boot Record by Jamie Levy](http://gleeda.blogspot.com/2012/04/mbr-parser.html) - MBR parser
 - [Basic Linux Administration](tools/basiclinuxadministration.md)
-- [Snort IDS Wiki](https://www.blindseeker.com/wiki/Introduction_to_IDS_and_IPS_concepts) - Best IDS resource you will find
+- [Introduction to IDS and IPS concepts by Tony Robinson](https://www.blindseeker.com/wiki/Introduction_to_IDS_and_IPS_concepts) - Best IDS resource you will find
+- [Snort IDS](https://www.snort.org) - A free lightweight network intrusion detection system for UNIX & Windows.
 
 
 ## Learning Reverse Engineering
@@ -55,8 +56,8 @@
 
 ### Sandbox Tools
 
-- [Sandboxie](http://www.sandboxie.com)
-- [Cuckoo](http://www.cuckoosandbox.org)
+- [Sandboxie](http://www.sandboxie.com) - A sandbox-based isolation program developed by Invincea (which acquired it from the original author Ronen Tzur) which prevents programs from making permanent changes to other programs and data
+- [Cuckoo](http://www.cuckoosandbox.org) - An open source automated dynamic malware analysis system
 
 ### Other Reversing Tools
 
@@ -64,7 +65,7 @@
 - [SysInternals](http://technet.microsoft.com/en-us/sysinternals/0e18b180-9b7a-4c49-8120-c47c5a693683.aspx) - Toolkit for Windows 
 - [Mandiant's RedLine](http://www.mandiant.com/resources/download/redline) - Windows XP, Windows Vista, Windows 7 (32-bit and 64-bit) 
 - [XXD](http://linuxcommand.org/man_pages/xxd1.html) - Free Linux command line hex editor 
-- [FireEye](http://www.fireeye.com) 
+- [FireEye's FLARE Team Reversing Repository](https://github.com/fireeye/flare-ida) 
 
 ## Other Tools  
 
