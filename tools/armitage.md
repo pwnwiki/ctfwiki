@@ -33,7 +33,7 @@ cd data/armitage
 
 Cortana is the scripting engine for armitage and can be used to automate several tedious tasks in armitage. There are several scripts made available by Raphael and other contributors as well as the script recorder built into Armitage itself for recording manual operations you perform on a host for automation.
 
-[A collection of Cortana scripts that you may use with Armitage and Cobalt Strike](https://github.com/rsmudge/cortana-scripts cortana-scripts github)
+[A collection of Cortana scripts that you may use with Armitage and Cobalt Strike](https://github.com/rsmudge/cortana-scripts)
 
 ==References==
 
