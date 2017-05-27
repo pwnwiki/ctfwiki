@@ -59,7 +59,9 @@ Each user has their own line of info separated by colons:
 ** If the beginning of the password field starts with "$id$Salt$hash" the password was stored with something besides DES (DES is easy to break)
 ** "$1$" represents MD5
 ** "$2$" represents Blowfish
-** "$5$" represents SHA-256
+** "$3$" represents NT HASH
+** "$4$" represents SHA1
+** "$5$" represents SHA-256 or SHA-384
 ** "$6$" represents SHA-512
 ** "NP" or "!" or null means the account has no password
 ** "LK" or "*" means the account is locked"
