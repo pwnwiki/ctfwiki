@@ -5,9 +5,9 @@ Nessus is a vulnerability scanner provided by Tenable Network Security. Like mos
 It can be ran and installed on practically any OS (Windows, Linux, OSX, Solaris, FreeBSD)and comes in two flavors: A home feed for security researchers and a professional feed that must be purchased for commercial use. The popular Backtrack Linux distribution comes with Nessus Pre-installed, only requiring the proper licensing to get started.
 
 ===Licencing===
-Home Feed: up to 16 IP Addresses <br />
-Evaluation: up to 16 IP Addresses and up to 15 days <br />
-Professional: no apparent limits <br />
+Home Feed: up to 16 IP Addresses 
+Evaluation: up to 16 IP Addresses and up to 15 days 
+Professional: no apparent limits 
 
 == Getting Started on Backtrack ==
 
